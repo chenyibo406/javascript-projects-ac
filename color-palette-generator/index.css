@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background: #e3f2fd;
+}
+
+.main {
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+
+.main .color {
+  background: white;
+  width: 185px;
+  height: 188px;
+}
+
+.top-column {
+  display: grid;
+}
+
+.buttom-colum {
+  display: grid;
+}
